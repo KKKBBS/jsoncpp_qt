@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tHb_model.json</file>
+    </qresource>
+</RCC>
